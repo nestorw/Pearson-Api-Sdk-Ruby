@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Pearson::VERSION
   spec.authors       = ["Pearson plc., Andrew Cantino (http://andrewcantino.com)"]
   spec.email         = ["toby.sims@pearson.com"]
-  spec.description   = %q{A Ruby Client Library for accessing the Pearson API}
+  spec.summary       = %q{A Ruby Client Library for accessing the Pearson API}
   spec.homepage      = "https://developer.pearson.com/apis/"
 
   spec.files         = `git ls-files`.split($/)
